@@ -1,4 +1,4 @@
-# Driver Fatigue Monitoring
+# DrowsyDefender
 
 This project implements a system to detect driver fatigue by monitoring eye movements and identifying yawning. It uses Python, OpenCV, dlib, and YOLO object detection to track facial landmarks and detect potential distractions.
 
